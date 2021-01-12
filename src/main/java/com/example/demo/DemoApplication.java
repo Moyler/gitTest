@@ -9,6 +9,7 @@ public class DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
         System.out.println("hello git, can you see me?");
+        System.out.println("can you see me again?");
     }
 
 }
